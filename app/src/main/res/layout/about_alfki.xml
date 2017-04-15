@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#004b6a"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="الدكتور ابراهيم الفقي"
+                    android:textColor="#fff"
+                    android:textSize="25sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:text="00000000000000000000"
+                    android:textColor="#fff" />
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/dr_alfeki" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:padding="5dp"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="الاسم"
+                            android:textSize="15sp"
+                            android:textColor="#fff" />
+                    </TableRow>
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:padding="5dp"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="المواليد"
+                            android:textSize="15sp"
+                            android:textColor="#fff" />
+                    </TableRow>
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:padding="5dp"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="الوفاة"
+                            android:textSize="15sp"
+                            android:textColor="#fff" />
+                    </TableRow>
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:padding="5dp"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="الجنسية"
+                            android:textSize="15sp"
+                            android:textColor="#fff" />
+                    </TableRow>
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:padding="5dp"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="العمل"
+                            android:textSize="15sp"
+                            android:textColor="#fff" />
+                    </TableRow>
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:padding="5dp"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="اولاده"
+                            android:textSize="15sp"
+                            android:textColor="#fff" />
+                    </TableRow>
+                    <TableRow>
+
+                        <TextView
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/ba_shape"
+                            android:gravity="right"
+                            android:text="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+                            android:textColor="#fff"
+                            android:textSize="15sp" />
+
+                    </TableRow>
+
+
+
+                </TableLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

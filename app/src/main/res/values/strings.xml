@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">By AndRody.com</string>
+    <string name="developer_name">AndRody</string>
+    <string name="developer_email">abboudi.96@live.com</string>
+    <string name="website">http://www.andrody.com</string>
+
+
+    <string name="TEXT1">العنوان 1</string>
+    <string name="TEXT11">الفصل 1</string>
+    <string name="TEXT111"> المادة المادة المادة 1</string>
+
+
+    <string name="TEXT2">العنوان 2</string>
+    <string name="TEXT22">الفصل 2</string>
+    <string name="TEXT222">المادة المادة المادة 2</string>
+
+
+    <string name="TEXT3">العنوان 3</string>
+    <string name="TEXT33">الفصل 3</string>
+    <string name="TEXT333"> المادة المادة المادة 3</string>
+
+</resources>
