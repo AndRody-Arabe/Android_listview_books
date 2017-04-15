@@ -22,7 +22,7 @@ https://play.google.com/store/apps/details?id=com.andrody.wayto
 
 في حال وجود إي مشكلة او استفسار تستطيع التواصل معنا
 
-/**
+/*
  * Created by Abboudi_Aliwi on 15.04.2017.
  * Website : http://andrody.com/
  * our channel on YouTube : https://www.youtube.com/c/Andrody2015
