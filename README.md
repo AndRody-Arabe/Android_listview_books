@@ -2,7 +2,18 @@
 Android Open Source Application : WayToSuccess الطريق إلى النجاح
 
 لتحميل ومعاينة التطبيق من المتجر :
+
 https://play.google.com/store/apps/details?id=com.andrody.wayto
+
+
+:كيفية جعل كل عنصر له واجهة خاصة به تستطيع اضافة داخلها ما تشاء من صور إلخ
+
+http://andrody.com/2017/05/use_images_in_app_waytosuccess/
+
+: إضافة اعلانات على الكود
+
+http://andrody.com/2017/06/add_ads_admob_in_app_waytosuccess/
+
 
 # الفائدة من هذا السورس
 - برمجة لست فيو قائمة
